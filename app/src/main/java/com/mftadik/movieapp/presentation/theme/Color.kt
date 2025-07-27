@@ -1,4 +1,4 @@
-package com.mftadik.movieapp.ui.theme
+package com.mftadik.movieapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

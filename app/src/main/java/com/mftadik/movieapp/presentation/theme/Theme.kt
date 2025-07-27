@@ -1,4 +1,4 @@
-package com.mftadik.movieapp.ui.theme
+package com.mftadik.movieapp.presentation.theme
 
 import android.app.Activity
 import android.os.Build
